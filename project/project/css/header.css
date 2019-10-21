@@ -1,0 +1,9 @@
+.my_bg{
+    background-color: white;
+    width: 1200px;
+    margin-left: 72px;
+    margin-right: 72px;
+}
+.my_bottom{
+    border-bottom: 4px solid #ff464e;
+}

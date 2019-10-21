@@ -1,0 +1,19 @@
+.my_register_i{
+    width: 260px;
+}
+.my_register_in{
+    width: 130px;
+}
+.my_register_btn{
+    background: #e2e2e2;
+    width: 110px;
+    height: 40px;
+    border-radius: 0;
+}
+.my_register_b{
+    width: 260px;
+    height: 40px;
+}
+.my_register_small{
+    font-size: 12px;
+}

@@ -1,0 +1,123 @@
+.nav-pills .nav-link.active,
+.nav-pills .show > .my_background-color{
+    color: #fff;
+    background-color: #ff464e;
+}
+.my_background-color{
+    color: #333;
+}
+.my_bottom{
+    border-bottom: 4px solid #ff464e;
+}
+.my_wh{
+    width: 106px;
+    height: 49px;
+    background-image: url(../img/index/1.png);
+    
+}
+.my_wh1{
+    background-position: 0px -54px;
+}
+.my_wh2{
+    background-position: 0px -108px;
+}
+.my_wh3{
+    background-position: 0px -162px;
+}
+.my_wh4{
+    background-position: 0px -216px;
+}
+.my_wh5{
+    background-position: 0px -270px;
+}
+.my_wh6{
+    background-position: 0px -324px;
+}
+.my_wh7{
+    background-position: -105px 0px;
+}
+.my_wh8{
+    background-position: -105px -54px;
+}
+.my_wh9{
+    background-position: -105px -108px;
+}
+.my_wh10{
+    background-position: -105px -162px;
+}
+.my_wh11{
+    background-position: -105px -216px;
+}
+.my_wh12{
+    background-position: -105px -270px;
+}
+.my_wh13{
+    background-position: -105px -324px;
+}
+.my_lunbo{
+    height: 360px;
+}
+.today{
+    font-size: 20px;
+    color: #333;
+    font-weight: bold;
+    font-family: "Î¢ÈíÑÅºÚ","ËÎÌå";
+    line-height: 60px;
+}
+.today_brand{
+    font-size: 16px;
+    color: #bbb;
+    margin-left: 10px;
+}
+.a_span{
+    color: #ff464e;
+    font-size: 14px;
+    display: inline;
+    float: right;
+}
+.my_img{
+    width: 260px;
+    height: 130px;
+}
+.my_div_span{
+    margin: 10px 0 0 10px;
+    font-family: "Î¢ÈíÑÅºÚ";
+    color: #333;
+    line-height: 20px;
+    float: left;
+    font-size: 12px;
+}
+.div_span{
+    line-height: 26px;
+    font-size: 14px;
+    float: right;
+}
+.ul_li{
+    line-height: 35px;
+    font-size: 14px;
+    color: #666;
+    margin-left: 10px;
+}
+.img_size{
+    width: 70px;
+    height: 35px;
+}
+.a_span2{
+    color: #666;
+    font-size: 14px;
+    display: inline;
+    float: right;
+}
+.li_img_size{
+    width: 200px;
+    height: 200px;
+}
+.ul_li_div{
+    line-height: 36px;
+    font-size: 18px;
+}
+.ul-li-span{
+    color: #bbb;
+    text-decoration: line-through;
+    font-size: 14px;
+}
